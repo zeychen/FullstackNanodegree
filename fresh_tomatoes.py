@@ -66,9 +66,6 @@ main_page_head = '''
         .movie-tile:hover .details, .movie-tile:hover .sline{
             display:block;
             color:#fff;
- /*           -ms-transform: translateX(200px);*/ /* IE 9 */
- /*           -webkit-transform: translateX(200px);*/ /* Safari */
-/*            transform: translateX(200px);*/
         }
         .details, .sline{
             display:none;

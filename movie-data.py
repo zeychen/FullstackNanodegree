@@ -7,9 +7,9 @@ import fresh_tomatoes
 #   Project 1 Movie Trailer Website   #
 #                                     #
 #   Zeyuan (Zee) Chen                 #
-#   November 6, 2016                  #
+#   November 8, 2016                  #
 #                                     #
-#   Movie Constructor >>> movie.py    #
+#   Movie Constructor                 #
 #######################################
 
 Movie constructor calls on:
